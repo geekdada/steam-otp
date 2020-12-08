@@ -1,7 +1,7 @@
 {
   "name": "steam-otp-cli",
   "description": "Generate Steam one-time password offline.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "bin": {
     "steam-otp-cli": "index.js",
