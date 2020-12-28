@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/geekdada/steam-otp/otp"
+	"github.com/geekdada/steam-otp/v2/otp"
 	"github.com/jessevdk/go-flags"
 	"github.com/manifoldco/promptui"
 	"os"

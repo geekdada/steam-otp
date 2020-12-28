@@ -1,4 +1,4 @@
-module github.com/geekdada/steam-otp
+module github.com/geekdada/steam-otp/v2
 
 go 1.15
 
