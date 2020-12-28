@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-$ npm install steam-otp-cli -g
+$ curl -sf https://gobinaries.com/geekdada/steam-otp | sh
 ```
 
 ## Usage
@@ -16,6 +16,12 @@ Run the command and input the `shared_secret`.
 
 ```bash
 $ steam-otp
+```
+
+Or, using `--secret` to pass the secret (NOT SAFE).
+
+```bash
+$ steam-otp --secret [SHARED SECRET]
 ```
 
 **Notice**
